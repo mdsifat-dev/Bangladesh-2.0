@@ -517,7 +517,7 @@ select {
 /* Newsletter section style ends here  */
 
 /* Footer style here  */
-/* footer {
+ footer {
   align-items: center;
   text-align: center;
   background-color: white;
@@ -541,4 +541,4 @@ footer img {
 
 footer img:hover {
   scale: 1.2;
-} */
+} 
