@@ -383,7 +383,7 @@ select {
 /* Recent News Section style ends here */
 
 /* Donate section styles */
-.donate-section {
+/* .donate-section {
   text-align: center;
 }
 
@@ -456,7 +456,7 @@ select {
 }
 /* Donate section styles */
 
-.newsletter {
+/* .newsletter {
   padding: 80px 265px;
   background-color: #c0e8d6;
   text-align: center;
@@ -511,10 +511,10 @@ select {
 
 .subscribe-form button:hover {
   background-color: #065f46;
-}
+}  */
 
 /* Footer style here  */
-footer {
+/* footer {
   align-items: center;
   text-align: center;
   background-color: white;
@@ -538,4 +538,4 @@ footer img {
 
 footer img:hover {
   scale: 1.2;
-}
+} */
